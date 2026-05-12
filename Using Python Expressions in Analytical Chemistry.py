@@ -14,7 +14,7 @@ print("="*50 + "\n")
 # ---------------------------------------------------------
 # MOLARITY CALCULATION (M = moles / volume)
 # ---------------------------------------------------------
-print("#MOLARITY CALCULATION")
+print("\n# MOLARITY CALCULATION")
 
 # Assigning values to variables
 moles = 2.34
